@@ -14,6 +14,6 @@ streamlit_app.py Файл с streamlit приложением.
 
 -Инструкция по пользованию:
 
-1. Пройдите по ссылке
+1. Пройдите по ссылке https://alishermoutpeerclustering.streamlit.app/
 2. Введите данные нового пользователя.
 3. Нажмите Predict Cluster.
